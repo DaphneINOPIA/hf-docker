@@ -1,9 +1,8 @@
 ---
-title: Engelsiz
-emoji: 📚
-colorFrom: indigo
-colorTo: green
+title: Wotisdis
+emoji: 🦀
+colorFrom: pink
+colorTo: yellow
 sdk: docker
 pinned: false
-short_description: Engelsiz
 ---
